@@ -1,10 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
 
 ### Overview 
 The project is called Recipe Quest. It will allow anyone to search, by a category, i.e., Beef, Chicken, Dessert, for recipes on a public API. The user must register/sign-in in order to view, add or delete a recipe to or from their "favorites" located in a MySql database.

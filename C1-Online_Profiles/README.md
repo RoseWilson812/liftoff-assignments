@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/RoseWilson812
  
 ### LinkedIn
-www.linkedin.com/in/rose-wilson-30826a123
+http://www.linkedin.com/in/rose-wilson-30826a123
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.

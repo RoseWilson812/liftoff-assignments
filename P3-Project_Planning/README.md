@@ -1,5 +1,4 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
@@ -7,13 +6,20 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+[Recipe Quest Wireframes](RecipeQuestWireframes1.pdf) 
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+The linked PDF includes four wireframes:
+- Home Page
+- Search Page
+- Search Result Page
+- Selected Recipe Page
+
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Recipe Quest Tracker](https://trello.com/b/aI0WEcqR)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Recipe Quest Project Repo](https://github.com/RoseWilson812/RecipeQuest)

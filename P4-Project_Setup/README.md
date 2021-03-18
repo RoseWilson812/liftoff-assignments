@@ -11,4 +11,4 @@ The display-meal-by-category commit will display a page showing all recipes for 
 
 The display-meal-by-origin commit will display a page showing all recipes for a given origin search.
 
-![ScreenShot](/README.md/commit-history.png)
+![ScreenShot](/P4-Project_Setup/commit-history.png)
